@@ -1,3 +1,5 @@
+![Banner](assets/banners/github_banner.svg.png)
+
 Hey there!
 ------------------------
 Thanks for taking your time to read this! I am working on FOSS stuff every now and then.
