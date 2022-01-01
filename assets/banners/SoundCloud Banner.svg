@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2480"
+   height="520"
+   viewBox="0 0 656.16665 137.58333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="SoundCloud Banner.svg"
+   inkscape:export-filename="/home/scrumplex/Pictures/Scrumplex/SoundCloud Banner.svg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 68.791665 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="656.16665 : 68.791665 : 1"
+       inkscape:persp3d-origin="328.08333 : 45.86111 : 1"
+       id="perspective47" />
+    <style
+       id="style4">
+            .logoScrumplexBG{
+            fill:#d63333;
+            }
+            .logoScrumplexShadow{
+            fill:#000000;
+            opacity:0.4;
+            }
+            .logoScrumplexWing{
+            fill:#fff;
+            }
+        </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="15.875,0"
+       orientation="1,0"
+       id="guide27"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,15.875"
+       orientation="0,1"
+       id="guide29"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,2480"
+       id="guide31"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="656.16665,0"
+       orientation="-520,0"
+       id="guide33"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="656.16665,137.58333"
+       orientation="0,-2480"
+       id="guide35"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,137.58333"
+       orientation="520,0"
+       id="guide37"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,121.70833"
+       orientation="0,1"
+       id="guide39"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-159.41669)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#d63333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:50;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect10"
+       height="137.58334"
+       x="0"
+       y="159.41669"
+       width="656.16669" />
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path10"
+       d="m 88.198238,180.26606 -43.122951,37.51244 2.279964,9.99164 -7.187157,5.43481 13.628108,13.62811 0.394809,1.09606 5.420857,5.42086 -1.388546,1.2392 -8.414991,21.56147 c 6.949792,6.9498 13.899581,13.89958 20.849373,20.84938 H 204.93272 l -83.22438,-83.22438 z"
+       style="opacity:0.4;fill:#000000;stroke-width:0.10583333" />
+    <path
+       style="fill:#ffffff;stroke-width:0.10583333"
+       inkscape:connector-curvature="0"
+       class="logoScrumplexWing"
+       d="m 62.079715,244.94907 6.309783,-15.25058 -8.413749,3.68088 -3.154892,-11.04371 22.962658,-20.50838 8.414808,-21.56142 -43.122849,37.51262 2.27965,9.99173 -7.187141,5.43454 8.939741,0.70061 5.083175,14.02398 z m 35.758966,-21.73605 -8.939742,-0.70167 -5.083174,-14.02292 -7.888817,2.97921 -6.309783,15.25058 8.41375,-3.68088 3.154891,11.04371 -22.962657,20.50838 -8.414808,21.56142 43.122848,-37.51262 -2.27965,-9.99173 z"
+       id="path12" />
+  </g>
+</svg>
