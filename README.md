@@ -8,7 +8,7 @@ If you wanna know more about me, then [**check out my website**](https://scrumpl
 Otherwise, just browse my GitHub profile, as well as my other profiles, like [sr.ht/~scrumplex](https://sr.ht/~scrumplex) and [gitlab.com/Scrumplex](https://gitlab.com/Scrumplex).
 
 ## You might know me as...
-- the guy who maintains [Prism Launcher](https://github.com/PlaceholderMC/PrismLauncher) alongside some other cool people
+- the guy who maintains [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) alongside some other cool people
 - the dude who maintains way too [many Arch Linux User Repository (AUR) packages](https://aur.archlinux.org/packages/?SeB=M&K=Scrumplex)
 - the guy who [edits your wikis](https://wiki.archlinux.org/title/Special:Contributions/Scrumplex) for some reason
 - the guy who brought you [AMD support for your display saturation needs on X.Org](https://www.gamingonlinux.com/2020/04/missing-out-on-vibrancegui-for-linux-theres-a-project-for-that-and-now-a-fork-for-amd-too/)
