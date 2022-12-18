@@ -5,7 +5,7 @@ Hey there!
 Thanks for taking your time to read this! I am working on FOSS stuff every now and then.
 
 If you wanna know more about me, then [**check out my website**](https://scrumplex.net).
-Otherwise, just browse my GitHub profile, as well as my other profiles, like [sr.ht/~scrumplex](https://sr.ht/~scrumplex) and [gitlab.com/Scrumplex](https://gitlab.com/Scrumplex).
+Otherwise, just browse my GitHub profile, as well as my other profiles, like [codeberg.org/Scrumplex](https://codeberg/Scrumplex) and [gitlab.com/Scrumplex](https://gitlab.com/Scrumplex).
 
 ## You might know me as...
 - the guy who maintains [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) alongside some other cool people
